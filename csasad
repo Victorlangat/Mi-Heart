@@ -1,0 +1,23 @@
+[33mcommit cde25f906e90c2df88f568ee6702e7673922ba47[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Victorlangat <victorjameskibet09@gmail.com>
+Date:   Thu Nov 27 10:15:38 2025 +0300
+
+    the finished product
+
+src/Pages/BookingPage.js
+src/Pages/MyBookings.css
+src/Pages/MyBookings.js
+src/Pages/cleaner/AvailableJobs.js
+src/Pages/cleaner/MyApllications.js
+src/Pages/cleaner/MyJobs.js
+src/components/Booking/BookingLayout.js
+src/components/Booking/steps/BookingSteps.css
+src/components/Booking/steps/CleanerAcceptanceStep.js
+src/components/Booking/steps/ConfirmationStep.js
+src/components/Booking/steps/ContactStep.js
+src/components/Booking/steps/ExtraSteps.js
+src/components/Booking/steps/PaymentStep.js
+src/components/Booking/steps/PendingAcceptanceStep.js
+src/components/Booking/steps/SuggestedCleanersStep.js
+src/context/AuthContext.js
+src/context/BookingContext.js
