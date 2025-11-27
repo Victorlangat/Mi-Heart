@@ -112,6 +112,7 @@
 
 /* Hero Text Styles */
 .hero-text {
+  color: #6a4190;
   opacity: 0;
   transform: translateY(30px);
   transition: all 0.8s ease-out;
@@ -166,10 +167,10 @@
 
 .hero-subtitle {
   font-size: 1.4rem;
-  color: rgba(0, 0, 0);
+  color: rgb(119, 3, 137);
   margin-bottom: 3rem;
   line-height: 1.6;
-  font-weight: 400;
+  font-weight: 600;
   opacity: 0;
   transform: translateY(20px);
   transition: all 0.8s ease-out 0.3s;
